@@ -45,7 +45,7 @@ I'm Nils a Data Scientist, Consultant and Conversational AI Enthusiast. Feel fre
 
 ### Examples of Work:
 
-<img src='' width = "400" >
+<img src='https://github.com/nilsjennissen/svg-graphics/blob/main/output/sparks.gif' width = "400" >
 
 
 <p align="left">
