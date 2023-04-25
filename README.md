@@ -1,4 +1,51 @@
-### Hi 👋, I'm Nils a Data Scientist, Consultant and Conversational AI Enthusiast from Germany.
+
+# Hi 👋 
+
+I'm Nils a Data Scientist, Consultant and Conversational AI Enthusiast. Feel free to explore my repositories for some exciting code. 
+
+#### Some projects you might find interesting:
+1. __[Cluster Algorithms]([https://github.com/cristobalvch/Spotify-Music-Genres/blob/main/utils.py](https://github.com/nilsjennissen/cluster-algorithms))__
+2. __[AI Assistant]([https://stackoverflow.com/questions/39086287/spotipy-how-to-read-more-than-100-tracks-from-a-playlist](https://github.com/nilsjennissen/cluster-algorithms))__
+3. __[Linkedin Spotify]([https://www.linkedin.com/pulse/extracting-your-fav-playlist-info-spotifys-api-samantha-jones/](https://github.com/nilsjennissen/cluster-algorithms))__
+4. __[EveryNoise]([https://everynoise.com/](https://github.com/nilsjennissen/cluster-algorithms))__
+5. __[KMeans Clustering]([https://towardsdatascience.com/machine-learning-algorithms-part-9-k-means-example-in-python-f2ad05ed5203](https://github.com/nilsjennissen/cluster-algorithms))__
+6. __[Agglomerative CLustering]([https://towardsdatascience.com/machine-learning-algorithms-part-12-hierarchical-agglomerative-clustering-example-in-python-1e18e0075019](https://github.com/nilsjennissen/cluster-algorithms))__
+7. __[Gaussian Mixture Models]([https://towardsdatascience.com/gaussian-mixture-models-d13a5e915c8e](https://github.com/nilsjennissen/cluster-algorithms))__
+8. __[Spectral Clustering]([https://www.kaggle.com/code/vipulgandhi/spectral-clustering-detailed-explanation](https://github.com/nilsjennissen/cluster-algorithms))__
+9. __[MeanShift]([https://towardsdatascience.com/understanding-mean-shift-clustering-and-implementation-with-python-6d5809a2ac40](https://github.com/nilsjennissen/cluster-algorithms))__
+10. __[MeanShift2]([https://medium.com/pythoneers/fully-explained-mean-shift-clustering-with-python-51aef7a17c5d](https://github.com/nilsjennissen/cluster-algorithms))__
+
+
+#### Data related Interests
+
+- Psychology
+- Data Visualization
+- 3D Design
+- Automation
+- Machine Learning
+- Neural Networks
+- Simulations
+- AI Alignment
+
+#### Roles
+
+- Data Scientist
+- Consultant
+- Lecturer
+- Mentor
+
+#### Tools
+
+- Python
+- R
+- SQL
+- Power BI 
+- Tableau
+- 
+
+### Examples of Work:
+
+<img src='' width = "400" >
 
 
 <p align="left">
