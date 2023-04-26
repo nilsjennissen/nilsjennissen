@@ -137,7 +137,7 @@ AI Alignment | `renders` | **in progress**
 
 ## Statistics   
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nilsjennissen&show_icons=true&locale=en&theme=github_dark" alt="nilsjennissen" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nilsjennissen&show_icons=true&locale=en&theme=github_dark&include_all_commits=True" alt="nilsjennissen" />
 <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilsjennissen&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="nilsjennissen" />  
 
 ## References
