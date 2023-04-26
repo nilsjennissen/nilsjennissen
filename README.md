@@ -53,7 +53,7 @@ AI Alignment | `renders` | **in progress**
 9. [python-handbook](https://github.com/nilsjennissen/cluster-alg)
 10. [r-handbook](https://github.com/nilsjennissen/r-handbook)
 
-
+## Collaboration
 
 
 ## Tools
@@ -139,6 +139,8 @@ AI Alignment | `renders` | **in progress**
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nilsjennissen&show_icons=true&locale=en&theme=github_dark&include_all_commits=True" alt="nilsjennissen" />
 <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilsjennissen&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="nilsjennissen" />  
+
+## Support & Sponsorship
 
 ## References
 [^1]: My reference.
