@@ -35,6 +35,11 @@ AI Alignment | `renders` | **in progress**
 #### "Intelligent" Assistants
 1. [ai-assistant](https://github.com/nilsjennissen/ai-assistant) - A command line tool for OpenAI Model interaction + Here is a simple footnote[^1].
 2. [ai-documentation](https://github.com/nilsjennissen/cluster-algorithms)- A command line tool for document generation
+3. [microphone-audio](https://github.com/nilsjennissen/ai-assistant) - A repository to setup a microphone session to record audio input
+
+#### Business cases
+3. [stock-analysis](https://github.com/nilsjennissen/stock-analysis) - Analysing stocks and balance sheet information for competitor analysis
+4. [market-research](https://github.com/nilsjennissen/market-research) - Customer and market analysis
 
 #### Machine Learning: 
 3. [Cluster Algorithms](https://github.com/nilsjennissen/cluster-algorithms) - A collection of cluster algorithms
@@ -43,6 +48,8 @@ AI Alignment | `renders` | **in progress**
 #### Data Visualization:
 5. [svg-graphics](https://github.com/nilsjennissen/svg-graphics)
 
+#### Automation
+5. [airflow-automation](https://github.com/nilsjennissen/airflow-automation)
 
 #### 3D Projects
 6. [blender](https://github.com/nilsjennissen/cluster-algorithms)
@@ -132,8 +139,18 @@ AI Alignment | `renders` | **in progress**
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
 
-
-
+## ... and more Tools
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
 
 ## Statistics   
 
