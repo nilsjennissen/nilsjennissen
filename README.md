@@ -15,25 +15,24 @@ variable = "All imaginable things"
 print variable
 ```
 
-## Data related Interests
+## Data related interests and active projects
 
-Interests  | Notebooks | Status
+Interests  | Projetcs | Status
 --- | --- | ---
-*Psychology* | `renders` | **in progress**
-Data Visualization | `renders` | **in progress**
-3D Design | `renders` | **in progress**
-Data Visualization | `renders` | **in progress**
-3D Design | `renders` | **in progress**
-Automation | `renders` | **in progress**
-Machine Learning | `renders` | **in progress**
-Neural Networks | `renders` | **in progress**
-Simulations | `renders` | **in progress**
-AI Alignment | `renders` | **in progress**
+*Conversational AI, Voice Assistants & LLMs* | `ai-documentation` `ai-assistant` `ai-assistant` | **hot**
+*3D Design* | `renders` | **start**
+*Psychology* | `psychological-research` | **in progress**
+*Business* | `account-mapping` `market-research` `stock-analysis`| **in progress**
+*Machine Learning* | `predictions` `clustering-algorithms`| **in progress**
+*Neural Networks* |  | **in progress**
+*Data Visualization* | `microphone-audio` `things-connector` | **persistent**
+*Simulations* | `chess` `simulations` | **in progress**
+*Automation* | `spotify` `airflow-automation` | **in progress**
 
 ## Some projects you might find interesting:
 
 #### "Intelligent" Assistants
-1. [ai-assistant](https://github.com/nilsjennissen/ai-assistant) - A command line tool for OpenAI Model interaction + Here is a simple footnote[^1].
+1. [`ai-assistant`](https://github.com/nilsjennissen/ai-assistant) - A command line tool for OpenAI Model interaction + Here is a simple footnote[^1].
 2. [ai-documentation](https://github.com/nilsjennissen/cluster-algorithms)- A command line tool for document generation
 3. [microphone-audio](https://github.com/nilsjennissen/ai-assistant) - A repository to setup a microphone session to record audio input
 
