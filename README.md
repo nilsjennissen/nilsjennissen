@@ -1,19 +1,6 @@
 
 # Hi 👋 I'm Nils
-a Data Scientist, Consultant and Conversational AI Enthusiast. In this README.md you will find all about my current projects. Feel free to explore and find some interesting code.
-
-> This is a small animation from the svg-graphics project
-<img src='https://github.com/nilsjennissen/svg-graphics/blob/main/output/sparks.gif' width = "400" >
-
-> The colors seem to match GitHub perfectly
-
-
-##### This is a small example code chunk
-```python
-# Code description
-variable = "All imaginable things"
-print variable
-```
+a Data Scientist, Consultant and Conversational AI Enthusiast. In my profile you will find all shareable projects that I am working on. Feel free to explore, support and contribute.
 
 ## Data related interests and active projects
 
@@ -28,6 +15,21 @@ Interests  | Projetcs | Status
 *Data Visualization* | `microphone-audio` `things-connector` | **persistent**
 *Simulations* | `chess` `simulations` | **in progress**
 *Automation* | `spotify` `airflow-automation` | **in progress**
+
+
+
+> This is a small animation from the svg-graphics project
+<img src='https://github.com/nilsjennissen/svg-graphics/blob/main/output/sparks.gif' width = "400" >
+
+> The colors seem to match GitHub perfectly
+
+
+##### This is a small example code chunk
+```python
+# Code description
+variable = "All imaginable things"
+print variable
+```
 
 ## Some projects you might find interesting:
 
