@@ -4,6 +4,7 @@ a Data Scientist, Consultant and Conversational AI Enthusiast. In my profile you
 
 ## 📫 Get in touch
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![https://www.linkedin.com/in/nils-jennissen/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 
 ## 🏗️ Currently working on:
 
@@ -63,10 +64,6 @@ You can contribute to the projects in many ways:
 [![GitHub](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://www.linkedin.com/in/nils-jennissen/)
 > Every support is greatly appreciate! Contribute to open source projects like to drive amazing and free software 🙏.
 
-
-[![https://www.linkedin.com/in/nils-jennissen/](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://www.linkedin.com/in/nils-jennissen/)
-> Every support is greatly appreciate! Contribute to open source projects like to drive amazing and free software 🙏.
 
 ## 📦 Tools
 
