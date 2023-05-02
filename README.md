@@ -3,7 +3,7 @@
 a Data Scientist, Consultant and Conversational AI Enthusiast. In my profile you will find all shareable projects that I am working on. Feel free to explore, support and contribute.
 
 ## 📫 Get in touch
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nils-jennissen/)
 
 ## 🏗️ Currently working on:
