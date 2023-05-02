@@ -9,7 +9,7 @@ a Data Scientist, Consultant and Conversational AI Enthusiast. In my profile you
 
 Fields         | Repositories                            | Key Libraries       | Status             
 -------------- |-----------------------------------------|---------------------| --------------------
-*Conversational AI & LLMs* | `ai-documentation` `ai-assistant` `ai-assistant` | `LangChain` `whisper` `OpenAi` | **hot**
+*Conversational AI & LLMs* | `ai-documentation` `ai-assistant` | `LangChain` `whisper` `OpenAi` | **hot**
 *3D Design* | `3d-modelling`                          | `blender` `OpenAi`  | **start**
 *Psychology* | `psychological-research`                |  | **in progress**
 *Business* | `account-mapping` `market-research` `stock-analysis` | | **in progress**
@@ -20,7 +20,7 @@ Fields         | Repositories                            | Key Libraries       |
 *Automation* | `spotify` `airflow-automation`          | `airflow` | **in progress**
 
 ## 🎬 Showcases
-<img src='https://github.com/nilsjennissen/simulations/blob/main/gifs/gen_100_20.gif' width = "600" >
+<img src='https://github.com/nilsjennissen/simulations/blob/main/gifs/gen_100_20.gif' width = "800" >
 
 
 ## 💡 How to use
