@@ -60,8 +60,8 @@ You can contribute to the projects in many ways:
 
 ### 🎁 Support
 
-[![Linkedin](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.linkedin.com/in/nils-jennissen/)
-[![GitHub](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://www.linkedin.com/in/nils-jennissen/)
+[![Linkedin](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nilsjennissen?country.x=DE&locale.x=de_DE)
+[![GitHub](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)]()
 > Every support is greatly appreciate! Contribute to open source projects like to drive amazing and free software 🙏.
 
 
