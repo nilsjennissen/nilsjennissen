@@ -5,41 +5,63 @@ a Data Scientist, Consultant and Conversational AI Enthusiast. In my profile you
 ## 📫 Get in touch
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-## 🏗️ Working on:
+## 🏗️ Currently working on:
 
-Fields | Repositories                                         | Key Libraries   | Status
------------- |------------------------------------------------------|-----------------| ------------
-*Conversational AI, Voice Assistants & LLMs* | `ai-documentation` `ai-assistant` `ai-assistant`    | `` `ai-assistant` | **hot**
-*3D Design* | `3d-modelling`                                       |                 | **start**
-*Psychology* | `psychological-research`                             |                 | **in progress**
-*Business* | `account-mapping` `market-research` `stock-analysis` |                 | **in progress**
-*Machine Learning* | `predictions` `clustering-algorithms`                |                 | **in progress**
-*Neural Networks* |                                                      |                 | **in progress**
-*Data Visualization* | `microphone-audio` `things-connector`                |                 | **persistent**
-*Simulations* | `chess` `simulations`                                |                 | **in progress**
-*Automation* | `spotify` `airflow-automation`                       |                 | **in progress**
+Fields         | Repositories                            | Key Libraries       | Status             
+-------------- |-----------------------------------------|---------------------| --------------------
+*Conversational AI & LLMs* | `ai-documentation` `ai-assistant` `ai-assistant` | `LangChain` `whisper` `OpenAi` | **hot**
+*3D Design* | `3d-modelling`                          | `blender` `OpenAi`  | **start**
+*Psychology* | `psychological-research`                |  | **in progress**
+*Business* | `account-mapping` `market-research` `stock-analysis` | | **in progress**
+*Machine Learning* | `predictions` `clustering-algorithms`   |  | **in progress**
+*Neural Networks* |                                         | | **in progress**
+*Data Visualization* | `microphone-audio` `things-connector`   |  | **persistent**
+*Simulations* | `chess` `simulations`                   | `chess` | **in progress**
+*Automation* | `spotify` `airflow-automation`          | `airflow` | **in progress**
 
-
-
-
-<img src='https://github.com/nilsjennissen/svg-graphics/blob/main/output/sparks.gif' width = "400" >
+## 🎬 Showcases
+<img src='https://github.com/nilsjennissen/simulations/blob/main/gifs/gen_100_20.gif' width = "600" >
 
 
-
-## 🤝 Collaboration & Sponsorship
-
+## 💡 How to use
 ### Start with your ai-assistant today
+
+Step 1: Clone a repository you want to use
 ```bash
 # Cloning an example repository:
 $ git clone https://github.com/nilsjennissen/ai-assistant.git
 ```
 
-### Support or sponsor projects 
-![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-> Support via PayPal
+Step 2: Install the required libraries
+```bash
+# Install the required libraries for the project
+$ pip install -r requirements.txt
+```
+Step 3: Run the project
+```bash
+# Run the project
+$ python main.py
+```
 
-![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
-> Support with GitHub Sponsors
+## 🤝 Contribute
+
+Contributions, issues and feature requests are welcome!
+
+You can contribute to the projects in many ways:
+- Report bugs and make suggestions
+- Translate the documentation into another language
+- Write code and fix bugs
+- Improve the documentation
+- Write tutorials or blog posts
+
+
+### 🎁 Support
+
+[![Linkedin](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.linkedin.com/in/nils-jennissen/)
+[![GitHub](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://www.linkedin.com/in/nils-jennissen/)
+> Every support is greatly appreciate! Contribute to open source projects like to drive amazing and free software 🙏.
+
+
 ## 📦 Tools
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
@@ -92,14 +114,12 @@ $ git clone https://github.com/nilsjennissen/ai-assistant.git
 
 
 
-
-
-## 📉 Statistics   
+## 📈 Statistics   
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nilsjennissen&show_icons=true&locale=en&theme=github_dark&include_all_commits=True" alt="nilsjennissen" />
 <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilsjennissen&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="nilsjennissen" />  
 
-## 📚 References
+## 📚 References/Shoutouts
 [^1]: My reference.
 
 <!--
