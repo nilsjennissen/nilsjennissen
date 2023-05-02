@@ -20,7 +20,9 @@ Fields         | Repositories                            | Key Libraries       |
 *Automation* | `spotify` `airflow-automation`          | `airflow` | **in progress**
 
 ## 🎬 Showcases
-<img src='https://github.com/nilsjennissen/simulations/blob/main/gifs/gen_100_20.gif' width = "800" >
+> Simulating the competition for food
+
+<img src='https://github.com/nilsjennissen/simulations/blob/main/gifs/gen_100_20.gif' width = "850" >
 
 
 ## 💡 How to use
