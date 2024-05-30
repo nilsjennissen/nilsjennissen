@@ -10,11 +10,11 @@ a Data Scientist, Consultant and Conversational AI Enthusiast. In my profile you
 
 Fields         | Repositories                            | Key Libraries       | Applications             
 -------------- |-----------------------------------------|---------------------| --------------------
-*Conversational AI & LLMs* | `ai-documentation` `ai-assistant` | `LangChain` `whisper` `OpenAi` `ÀutoGen` | **...**
-*AI in 3D Design and Engineering* | `3d-modelling`                          | `blender` `OpenAi`  | **...**
+*Conversational AI & LLMs* | `local-language-models` `directory-assistant` | `LangChain` `whisper` `Ollama` `ÀutoGen` `Elevenlabs` `bark`| **...**
 *AI in Psychology* | `psychological-research`                |  | **...**
 *Financial Analysis* | `account-mapping` `market-research` `stock-analysis` | | **...** 
-*Automation* | `spotify` `airflow-automation`          | `airflow` | **...**
+*AI in 3D Design and Engineering* | `3d-modelling`                          | `blender` `Ollama`  | **...**
+*Automation* | `directory-assistant` `airflow-automation`          | `github-workflows` | **...**
 
 ## 🎬 Showcases
 > Simulating the competition for food
