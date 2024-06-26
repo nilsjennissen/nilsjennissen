@@ -8,17 +8,13 @@ a Data Scientist, Consultant and Conversational AI Enthusiast. In my profile you
 
 ## 🏗️ Currently working on:
 
-Fields         | Repositories                            | Key Libraries       | Status             
+Fields         | Repositories                            | Key Libraries       | Applications             
 -------------- |-----------------------------------------|---------------------| --------------------
-*Conversational AI & LLMs* | `ai-documentation` `ai-assistant` | `LangChain` `whisper` `OpenAi` | **hot**
-*3D Design* | `3d-modelling`                          | `blender` `OpenAi`  | **start**
-*Psychology* | `psychological-research`                |  | **in progress**
-*Business* | `account-mapping` `market-research` `stock-analysis` | | **in progress**
-*Machine Learning* | `predictions` `clustering-algorithms`   |  | **in progress**
-*Neural Networks* |                                         | | **in progress**
-*Data Visualization* | `microphone-audio` `things-connector`   |  | **persistent**
-*Simulations* | `chess` `simulations`                   | `chess` | **in progress**
-*Automation* | `spotify` `airflow-automation`          | `airflow` | **in progress**
+*Conversational AI & LLMs* | `local-language-models` `directory-assistant` | `LangChain` `whisper` `Ollama` `ÀutoGen` `Elevenlabs` `bark`| **...**
+*AI in Psychology* | `psychological-research`                |  | **...**
+*Financial Analysis* | `account-mapping` `market-research` `stock-analysis` | | **...** 
+*AI in 3D Design and Engineering* | `3d-modelling`                          | `blender` `Ollama`  | **...**
+*Automation* | `directory-assistant` `airflow-automation`          | `github-workflows` | **...**
 
 ## 🎬 Showcases
 > Simulating the competition for food
