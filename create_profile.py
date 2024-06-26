@@ -1,8 +1,11 @@
+# Imports
 import datetime
 
-# Create a profile with the following content
-date = datetime.datetime.now().strftime("%Y-%m-%d")
-profile_text = f"""Updated:{date}
+# Setting variables
+date = datetime.datetime.now().strftime("DD.MM.YYYY")
+
+# Setting the profile text
+profile_text = f"""Updated: {date}
 
 # Hi there 👋 
 I'm Nils a Data Scientist, Consultant and Conversational AI Enthusiast. In my profile you will find all shareable projects that I am working on. Feel free to explore, support and contribute.
@@ -146,10 +149,12 @@ Here are some ideas to get you started:
 -->
 """
 
+# Very useful function
 def create_profile():
     return profile_text
 
 
+# Entry point
 if __name__ == "__main__":
     profile = create_profile()
     print(profile)
