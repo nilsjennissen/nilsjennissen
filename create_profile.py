@@ -2,8 +2,8 @@ import datetime
 
 # Create a profile with the following content
 date = datetime.datetime.now().strftime("%Y-%m-%d")
-profile_text = f"""
-                                                                                                           {date}
+profile_text = f"""Updated:{date}
+
 # Hi there 👋 
 I'm Nils a Data Scientist, Consultant and Conversational AI Enthusiast. In my profile you will find all shareable projects that I am working on. Feel free to explore, support and contribute.
 
