@@ -1,6 +1,11 @@
+import datetime
 
-# Hi 👋 I'm Nils
-a Data Scientist, Consultant and Conversational AI Enthusiast. In my profile you will find all shareable projects that I am working on. Feel free to explore, support and contribute.
+# Create a profile with the following content
+date = datetime.datetime.now().strftime("%Y-%m-%d")
+profile_text = f"""
+                                                                                                           {date}
+# Hi there 👋 
+I'm Nils a Data Scientist, Consultant and Conversational AI Enthusiast. In my profile you will find all shareable projects that I am working on. Feel free to explore, support and contribute.
 
 ## 📫 Get in touch
 
@@ -124,3 +129,27 @@ You can contribute to the projects in many ways:
 
 ## 📚 References/Shoutouts
 [^1]: My reference.
+
+<!--
+**nilsjennissen/nilsjennissen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+"""
+
+def create_profile():
+    return profile_text
+
+
+if __name__ == "__main__":
+    profile = create_profile()
+    print(profile)
