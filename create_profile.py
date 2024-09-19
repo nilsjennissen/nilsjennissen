@@ -4,6 +4,12 @@ import datetime
 # Setting variables
 date = datetime.datetime.now().strftime("DD.MM.YYYY")
 
+
+# Erasing the readme content from before
+with open("README.md", "w") as file:
+    file.write("")
+
+
 # Setting the profile text
 profile_text = f"""Updated: {date}
 
@@ -40,7 +46,7 @@ Fields         | Repositories                            | Key Libraries       |
 Step 1: Clone a repository you want to use
 ```bash
 # Cloning an example repository:
-$ git clone https://github.com/nilsjennissen/ai-assistant.git
+$ git clone https://github.com/nilsjennissen/'repo'.git
 ```
 
 Step 2: Install the required libraries
@@ -130,23 +136,6 @@ You can contribute to the projects in many ways:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nilsjennissen&show_icons=true&locale=en&theme=github_dark&include_all_commits=True" alt="nilsjennissen" />
 <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilsjennissen&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="nilsjennissen" />  
 
-## 📚 References/Shoutouts
-[^1]: My reference.
-
-<!--
-**nilsjennissen/nilsjennissen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 """
 
 # Very useful function
