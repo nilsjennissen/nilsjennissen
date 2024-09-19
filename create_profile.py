@@ -11,28 +11,27 @@ with open("README.md", "w") as file:
 
 
 # Setting the profile text
-profile_text = f"""Updated: {date}
-
+profile_text = f"""
 # Hi there 👋 
-I'm Nils a Data Scientist, Consultant and Conversational AI Enthusiast. In my profile you will find all shareable projects that I am working on. Feel free to explore, support and contribute.
+I'm Nils a Data Scientist, Consultant and Conversational AI Enthusiast. In my profile you will find all projects that I am working on. Feel free to explore, support and contribute.
 
 ## 📫 Get in touch
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nils-jennissen/)
 
-## 🏗️ Currently working on:
+## 🏗️ Currently working on
 
-Fields         | Repositories                            | Key Libraries       | Status             
--------------- |-----------------------------------------|---------------------| --------------------
-*Conversational AI & LLMs* | `ai-documentation` `ai-assistant` | `LangChain` `whisper` `OpenAi` | **hot**
-*3D Design* | `3d-modelling`                          | `blender` `OpenAi`  | **start**
-*Psychology* | `psychological-research`                |  | **in progress**
-*Business* | `account-mapping` `market-research` `stock-analysis` | | **in progress**
-*Machine Learning* | `predictions` `clustering-algorithms`   |  | **in progress**
-*Neural Networks* |                                         | | **in progress**
-*Data Visualization* | `microphone-audio` `things-connector`   |  | **persistent**
-*Simulations* | `chess` `simulations`                   | `chess` | **in progress**
-*Automation* | `spotify` `airflow-automation`          | `airflow` | **in progress**
+Fields                             | Repositories                            | Key Technology      
+-----------------------------------|-----------------------------------------|---------------------
+**Conversational AI & LLMs (HMI)** | `ai-documentation` `ai-assistant` | `LangGraph` `LangChain` `Ollama` `CrewAI` `AutoGen` `whisper` `OpenAi` 
+**Automation**                     | `spotify` `airflow-automation`          | `airflow` 
+**Machine Learning**               | `predictions` `clustering-algorithms`   | `scikit-learn` `pandas` `numpy` `matplotlib`
+**3D Design**                      | `3d-modelling`                          | `blender` `OpenAi`  
+**Business/Document Processes**    | `account-mapping` `market-research` `stock-analysis` | 
+**Data Analysis & Visualization**  | `data-analysis` `data-visualization` `things-connector`   | `pandas` `matplotlib` 
+**Audio & Speech**                 | `audio-analysis` `speech-recognition`    | `pydub` `whisper* | `microphone-audio`   
+**Simulations**                    | `chess` `simulations` | `chess` `pygame`
+
 
 ## 🎬 Showcases
 > Simulating the competition for food
@@ -43,40 +42,58 @@ Fields         | Repositories                            | Key Libraries       |
 ## 💡 How to use
 ### Start with your ai-assistant today
 
-Step 1: Clone a repository you want to use
+Get the code via git
 ```bash
 # Cloning an example repository:
 $ git clone https://github.com/nilsjennissen/'repo'.git
 ```
 
-Step 2: Install the required libraries
+Install the required libraries via pip
 ```bash
 # Install the required libraries for the project
 $ pip install -r requirements.txt
 ```
-Step 3: Run the project
+** or**
+
+Install the required libraries via poetry
 ```bash
-# Run the project
-$ python main.py
+# Install the required libraries for the project
+$ poetry install  # Ensure that you have poetry installed
 ```
 
-## 🤝 Contribute
+
+Step 3: Run the project
+```bash
+# Run the project via the main entry point
+$ python main.py  # app.py |  app_cli.py
+```
+
+**or**
+
+Step 4: Run the project in streamlit 
+```bash
+# Run the project via the streamlit entry point
+$ streamlit run main.py  # app.py |  app_streamlit.py
+```
+
+## 🤝 Contributing welcome
 
 Contributions, issues and feature requests are welcome!
 
 You can contribute to the projects in many ways:
 - Report bugs and make suggestions
-- Translate the documentation into another language
 - Write code and fix bugs
 - Improve the documentation
 - Write tutorials or blog posts
+- Create new features or improve existing ones
+- ...
 
 
 ### 🎁 Support
 
 [![Linkedin](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nilsjennissen)
 [![GitHub](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)]()
-> Every support is greatly appreciate! Contribute to open source projects like to drive amazing and free software 🙏.
+Every support is greatly appreciate! Contribute to open source projects to drive amazing and free AI tools for everyone to use  🙏.
 
 
 ## 📦 Tools
@@ -134,16 +151,21 @@ You can contribute to the projects in many ways:
 ## 📈 Statistics   
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nilsjennissen&show_icons=true&locale=en&theme=github_dark&include_all_commits=True" alt="nilsjennissen" />
-<img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilsjennissen&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="nilsjennissen" />  
+<img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilsjennissen&show_icons=true&locale=en&layout=compact&theme=github_dark&include_all_commits=True" alt="nilsjennissen" />
 
+> Updated: {date}
 """
 
-# Very useful function
 def create_profile():
     return profile_text
+
+def write_profile(profile_text):
+    with open("README.md", "w") as file:
+        file.write(profile_text)
 
 
 # Entry point
 if __name__ == "__main__":
     profile = create_profile()
+    write_profile(profile)
     print(profile)
