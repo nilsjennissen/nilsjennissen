@@ -159,13 +159,9 @@ Every support is greatly appreciate! Contribute to open source projects to drive
 def create_profile():
     return profile_text
 
-def write_profile(profile_text):
-    with open("README.md", "w") as file:
-        file.write(profile_text)
 
 
 # Entry point
 if __name__ == "__main__":
     profile = create_profile()
-    write_profile(profile)
     print(profile)
